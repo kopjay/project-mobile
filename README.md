@@ -1,50 +1,11 @@
-# Mini-Bazaar
-
-This is a general ordering application with material design pattern using firebase as backend.
-
-- Authentication - [Firebase Authentication](https://firebase.google.com/docs/auth/android/email-link-auth)
-- Database - [Cloud Firestore](https://firebase.google.com/docs/firestore/quickstart)
-- Storage - [Cloud Storage](https://firebase.google.com/docs/storage/android/start)
-
-For Paytm payment gateway integration, [click here](https://developer.paytm.com/docs/v1/android-sdk/)
-
-<br/>
-
- ## Application Flow
-<br/>
-
- | 1. Registration Process                |
- |-------------------------------------|
- |<img src="registration_mockup.gif">| 
- 
- <br/>
- 
- | 2. Ordering Process                |
- |-------------------------------------|
- |<img src="ordering_mockup.gif">| 
-
-<br/>
+# Jual Beli Apps
 
 ## Features Integrated -
-- App tour
-- Email Verification
+- Login
 - Wishlist
 - Cart
 - Profile
-- Order History
-- Order Tracking
-- Paytm Payment Gateway
 
-<br/>
-
-## Features to be added -
-- Notifications
-- Feedback
-- Product Reviews and Ratings
-- About/Contact us
-- Merchant side interface
-
-<br/>
 
 ## Important Libraries Used -
 - [Lottie Android](https://github.com/airbnb/lottie-android)
