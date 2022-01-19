@@ -7,7 +7,7 @@
 - Profile
 
 
-## Important Libraries Used -
+## Libraries Used -
 - [Lottie Android](https://github.com/airbnb/lottie-android)
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
 - [Butter Knife](https://github.com/JakeWharton/butterknife)
